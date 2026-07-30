@@ -1,0 +1,9 @@
+# This is a personal, private page — it asks search engines not to index it.
+# (The <meta name="robots"> tag in index.html does the same thing; this file
+#  is a backup in case any crawler ignores the meta tag.)
+User-agent: *
+Disallow: /
+
+# If you ever want this page to be publicly discoverable, delete this file
+# (and remove the <meta name="robots" content="noindex, nofollow"> tag from
+# index.html), then add a real Sitemap: line pointing at sitemap.xml.

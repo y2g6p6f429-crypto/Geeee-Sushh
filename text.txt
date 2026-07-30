@@ -1,0 +1,3 @@
+Put your audio file here, e.g. perfect.mp3, then update the
+<audio src=""> path in index.html to match.
+Optional: add cover.jpg for album artwork on the vinyl player.
